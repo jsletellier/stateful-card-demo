@@ -2,6 +2,8 @@
 
 Small demo project to showcase the State Pattern applied to UI Interactions
 
+![stateful card demo ui](/doc/stateful-card-ui.png "Stateful Card Demo UI")
+
 ## Implemented Interactions
 
 - [x] Dragging: `mousedown + mousemove`
